@@ -2,7 +2,10 @@
 <p>I'm Lissette Lindao, Full stack web developer.</p>
 
 <img src="https://user-images.githubusercontent.com/16761591/200602345-8c601800-f910-4d19-81c3-e28cd52d7437.jpg" /> 
-<p>💻 I started my career in 2017 working as Wordpress developer with HTML, CSS and Js, but since 2021, I decided to complement my professional growth and train as a JavaScript Full stack developer learning and perfecting my knowledge in 👉 LESS, SASS, Javascript, React, Redux, Express, PostgreSQL y Sequalize.</p><p> I consider myself responsible, committed, self-taught and I love to continue learning. 🚀</p>
+💻 Web developer in training | Former web designer
+🎯 Passionate about clean, user-friendly code
+🌱 Currently working with Laravel, PHP, and React
+🚀 Always learning, always building
 
 <strong>Connect with me:</strong>
 <p>
