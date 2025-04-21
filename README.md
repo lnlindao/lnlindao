@@ -2,10 +2,10 @@
 <p>I'm Lissette Lindao, Full stack web developer.</p>
 
 <img src="https://user-images.githubusercontent.com/16761591/200602345-8c601800-f910-4d19-81c3-e28cd52d7437.jpg" /> 
-💻 Web developer in training | Former web designer
-🎯 Passionate about clean, user-friendly code
-🌱 Currently working with Laravel, PHP, and React
-🚀 Always learning, always building
+💻 Web developer in training | Former web designer <br>
+🎯 Passionate about clean, user-friendly code <br>
+🌱 Currently working with Laravel, PHP, and React <br>
+🚀 Always learning, always building <br>
 
 <strong>Connect with me:</strong>
 <p>
